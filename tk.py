@@ -1,9 +1,7 @@
-from ast import Continue
 from time import sleep
 from tkinter import *
 from tkinter import messagebox
-from webbrowser import BackgroundBrowser
-from numpy import blackman
+
 
 from pandas import options
 
